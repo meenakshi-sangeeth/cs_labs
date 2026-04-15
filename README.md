@@ -37,7 +37,7 @@ cs_labs/
 ### Semester 1
 | Code | Course |
 |------|--------|
-| — | Programming for Problem Solving Lab |
+| CSE 1181 | Programming for Problem Solving Lab |
 
 ### Semester 2
 | Code | Course |
