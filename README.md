@@ -26,7 +26,7 @@ cs_labs/
 ├── sem4/
 │   ├── dbs/        # Database Systems Lab
 │   ├── os/         # Operating Systems Lab
-│   └── oosdl/      # Object-Oriented Software Development Lab
+│   └── osdl/      # Object-Oriented Software Development Lab
                                 
 ```
 
