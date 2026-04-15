@@ -1,0 +1,37 @@
+### Define a structure for a student with a nested structure for the address (including street, city, and zip code). Write a program to input and display student details along with their address (Use nested structure concept).
+
+```bash
+#include <stdio.h>
+
+struct Address {
+    char street[50];
+    char city[50];
+    int zip;
+};
+
+struct Student {
+    char name[50];
+    int roll;
+    struct Address addr;
+};
+
+int main() {
+    struct Student s;
+    printf("Enter student name: ");
+    scanf("%s", s.name);
+    printf("Enter roll number: ");
+    scanf("%d", &s.roll);
+    printf("Enter street: ");
+    scanf("%s", s.addr.street);
+    printf("Enter city: ");
+    scanf("%s", s.addr.city);
+    printf("Enter zip code: ");
+    scanf("%d", &s.addr.zip);
+
+    printf("\nStudent Details:\n");
+    printf("Name: %s\nRoll: %d\nStreet: %s\nCity: %s\nZip: %d\n",
+           s.name, s.roll, s.addr.street, s.addr.city, s.addr.zip);
+    return 0;
+}
+
+```
