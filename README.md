@@ -16,8 +16,8 @@ cs_labs/
 │   └── pps/        # Programming for Problem Solving Lab
 │
 ├── sem2/
-│   ├── ioop/       # Introduction to Object-Oriented Programming Lab
-│   └── dav/        # Data Visualization 
+│   ├── dav/        # Data Visualization
+│   └── ioop/       # Introduction to Object-Oriented Programming Lab 
 │
 ├── sem3/
 │   ├── disl/       # Digital Systems Lab
