@@ -42,8 +42,8 @@ cs_labs/
 ### Semester 2
 | Code | Course |
 |------|--------|
-| ICT 1281 | Introduction to Object Oriented Programming Lab |
 | DSE 1271 | Data Visualization |
+| ICT 1281 | Introduction to Object Oriented Programming Lab |
 
 ### Semester 3
 | Code | Course | 
