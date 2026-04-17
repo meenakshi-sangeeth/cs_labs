@@ -1,6 +1,0 @@
-*.java linguist-detectable=true
-*.sql linguist-detectable=true
-*.v linguist-detectable=true
-*.ipynb linguist-detectable=true
-*.c linguist-detectable=true
-*.py linguist-detectable=true
